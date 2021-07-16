@@ -1,4 +1,4 @@
-# Amazon-Web-Scraper
+# Amazon_Web-Scraper
 
 AG Amazon Data Web Scraper Is The Easiest Way To Get Access To Any Of The Products Including Prices, Offers, Sales Rank, Reviews And Other Information Regarding The Products On Amazon In JSON Format.
 
